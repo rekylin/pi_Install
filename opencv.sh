@@ -37,7 +37,7 @@ sudo apt-get install -y liblapack-dev gfortran libhdf5-dev
 sudo apt-get install -y libprotobuf-dev libgoogle-glog-dev libgflags-dev
 sudo apt-get install -y protobuf-compiler
 sudo apt-get install -y libjasper-dev
-sudo apt-get install -y python3-pyqtt5
+sudo apt-get install -y python3-pyqt5
 
 sudo apt-get install -y build-essential cmake git unzip pkg-config
 sudo apt-get install -y libportaudio2
