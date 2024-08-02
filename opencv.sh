@@ -4,13 +4,13 @@ install_opencv () {
 echo ""
 case `cat /etc/debian_version` in
 10*) echo "Detecting Debian 10, Buster. "
-	;;
+    ;;
 11*) echo "Detecting Debian 11, Bullseye. "
-	;;
+    ;;
 12*) echo "Detecting Debian 12, Bookworm. "
-	;;
+    ;;
 12.1) echo "Detect 12.1"
-        ;;
+    ;;
 esac
 echo ""
 echo "Installing OpenCV 4.5.5"
